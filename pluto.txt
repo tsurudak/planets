@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 pluto is a planet
+=======
+this is my file about pluto
+>>>>>>> 165f4d96325357a0665693dbb5b6dab00265d08c
+
+
+let sadd someting here
