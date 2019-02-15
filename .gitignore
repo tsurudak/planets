@@ -1,3 +1,3 @@
-# *.dat
+*.dat
 **results/plots/*
-
+!**results/data/*
